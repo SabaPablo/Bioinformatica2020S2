@@ -1,0 +1,10 @@
+RETO I: Enumerá las diferencias que existen entre una célula procariota y eucariota. 
+1- Las celulas eucariotas tienen nucleo y las procariotas no. 
+2- Las celulas eucariotas tienen una sola pieza de ADN y las procariotas poseen varias cromozomas que lo representan. 
+3- Las celulas eucariotas son mucho más grades que las procariotas.
+4- Las celulas eucariotas tienen organelos 
+
+RETO II: Dado el código genético como se muestra en la tabla: (Ver TP3)
+Crea un programa sencillo en algún lenguaje de programación que conozcas que imprima una cadena de ARN codificante para el siguiente péptido (cadena corta de aminoácidos). 
+Sec1: ‘ATVEKGGKHKTGPNEKGKKIFVQKCSQCHTVLHGLFGRKTGQA' 
+
