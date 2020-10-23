@@ -1,0 +1,60 @@
+PARA PENSAR:¿Qué tipo de información se puede extraer de la
+comparación de secuencias?¿Cómo esperás que se vea en una comparación?
+Se pueden extraer diferencias y similitudes entre ellas las que determinan que tan proximos estan en la evolución. Especies que cumplan caracteristicas similares deberian manifestar una comparacion entre ellos lo mas parecido posible.
+
+PARA PENSAR:¿Por qué crees que es mejor evaluar las relaciones evolutivas
+lejanas comparando proteínas?
+Porque es mas dificil que se encuentren cambios significativos entre proteinas que entre acidos nucleoticos.
+
+👇 RETO I: Intentemos, entonces alinear estas dos palabras, para
+comprender mejor el problema. Alineá en la tabla interactiva las
+palabras "BANANA" y "MANZANA".
+☑ PREGUNTAS DISPARADORAS:¿Existe una única forma de alinearlas?
+¿Es alguno de los posibles alineamientos mejor que otro? Si así fuera ¿Por
+qué?
+BAN-ANA
+MANZANA
+
+-BANANA
+MANZANA
+
+
+👇 RETO II: En la siguiente tabla interactiva distintos alineamientos
+para las palabras "ANA" y "ANANA". Verás que en el margen
+superior izquierdo aparece un valor de identidad calculado para
+cada alineamiento que intentes.
+¡Tomá nota de los valores de identidad observados y de las
+conclusiones que se desprendan de estas observaciones!
+☑ PREGUNTAS DISPARADORAS: ¿Son todos los valores iguales? ¿Qué
+consideraciones deberían tenerse en cuenta a la hora de realizar el cálculo?
+¿Se te ocurre, distintas formas de calcularlo?¿Serán todas ellas igualmente
+válidas en Biología?
+
+Dependiendo como los comparo pueden parecerse o no mas a ellos.
+si.. Penalizandolos de acuerdo a los gap que uso y donde uso cada gap.
+No todas las formas distintas son validas. Si no se encuentran en la naturaza o se encuentran de forma arbitraria deberia tener otro valor de penalidad.
+
+
+👇 RETO III: Probá en tabla interactiva distintos alineamientos para
+las palabras "ANA" y "ANANA". Verás que en el margen superior
+izquierdo aparece un valor de identidad calculado para cada
+alineamiento que intentes y un botón para cambiar la penalidad que
+se le otorga a dicho para el cálculo de identidad.
+Probá varias combinaciones, tomá nota de los valores de identidad
+observados y de las conclusiones que se desprendan de estas
+observaciones
+
+ANA
+ANANA
+
+--ANA
+ANANA
+
+A--NA
+ANANA
+
+AN--A
+ANANA
+
+
+

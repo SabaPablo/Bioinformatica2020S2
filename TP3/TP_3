@@ -8,3 +8,27 @@ RETO II: Dado el código genético como se muestra en la tabla: (Ver TP3)
 Crea un programa sencillo en algún lenguaje de programación que conozcas que imprima una cadena de ARN codificante para el siguiente péptido (cadena corta de aminoácidos). 
 Sec1: ‘ATVEKGGKHKTGPNEKGKKIFVQKCSQCHTVLHGLFGRKTGQA' 
 
+	Archivo en raiz de este documento: arnCodificante.py
+
+RETO III: En muchos de los genes codificados en el ADN existe un motivo
+recurrente ubicado antes de la secuencia codificante del gen que direcciona la unión
+de la ARN Polimerasa II, la proteína encargada de copiar el ADN a un ARN
+mensajero. Ésta secuencia denominada caja TATA (consistente en una secuencia de
+nucleótidos 'TATAAA') se encuentra presente en lo que se denomina región
+promotora de diversos genes, en organismos de todos los reinos (Smale and
+Kadonaga 2003; Lifton et al. 1978).
+👉 Crea un programa sencillo en algún lenguaje de programación que conozcas que
+permita identificar las regiones promotoras de un gen, en una secuencia dada de
+ADN, considerando que tal región comienza y termina en con la caja TATA.
+☑ ¡Guardate esta idea, la vamos a usar más adelante!
+
+	Archivo en raiz de este documento: tata.py
+
+RETO VI: Existen numerosas herramientas muy fáciles de usar que te permiten
+crear videojuegos, como por ejemplo Pilas Engine, y no hay mejor modo de
+aprender que jugando!
+👉 Diseñá un juego de mesa o un videojuego (hecho con la herramienta que más te
+guste) temático sobre expresión génica, con sus reglas y resúmen. Tené en cuenta
+que lo vas a tener que compartir con la clase. ¡El cielo es límite, a divertirse!
+☑ Si te decantas por un juego de mesa debes diseñar las tarjetas o elementos que requiera tu
+juego.
