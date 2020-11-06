@@ -56,3 +56,4 @@ def parceCodeOfAminoAcid(codeAminoAcid):
         'T', 'Thr',
         _, 'None'
     )
+
